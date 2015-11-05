@@ -1,5 +1,0 @@
-{
-	"cmd": [ "java", "-cp", "setlX.jar;setlX-gfx.jar;setlX-plot.jar", "org.randoom.setlxUI.pc.SetlX", "$file" ],
-	"working_dir": "INSERT_SETLX_BINARY_PATH_HERE",
-	"selector": "source.stlx"
-}
